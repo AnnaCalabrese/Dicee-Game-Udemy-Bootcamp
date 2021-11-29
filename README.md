@@ -3,7 +3,10 @@
 ## :dart: About The Project ##
 This is the first boss level challenge from "The Complete 2022 Web Development Bootcamp" taught by Angela Yu. It's a simple game that when the page refreshes it shows 2 different
 dices and the player who wins.
- 
+
+## Screenshot ##
+ ![immagine](https://user-images.githubusercontent.com/81150424/143852326-59a31ad2-3471-4275-8b42-c5256fcd7154.png)
+
 ## :rocket: Built with ##
 - HTML
 - CSS
